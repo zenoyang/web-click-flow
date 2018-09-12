@@ -1,0 +1,3 @@
+# pv.job
+type=command
+command=bash pv.sh

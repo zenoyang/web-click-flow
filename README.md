@@ -1,1 +1,4 @@
-# web-click-project
+## web-click-flow-project
+
+### 简介
+通过分布式 Hadoop 集群处理网站产生的大量日志分析出网站的浏览量 PV、访客数 UV、访问的 IP 数、跳出率、平均访问时长/访问页数、重点用户等 KPI 供网站管理者分析网站使用。  

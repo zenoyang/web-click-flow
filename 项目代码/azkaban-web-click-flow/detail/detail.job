@@ -1,0 +1,3 @@
+# load-weblog.job
+type=command
+command=bash detail.sh

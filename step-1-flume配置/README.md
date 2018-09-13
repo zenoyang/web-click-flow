@@ -4,5 +4,5 @@
 bin/flume-ng agent -c conf -f conf/tail-hdfs.conf -n a1
 ```
 
-数据来源： `/home/yz/log/test.log`
-上传到HDFS的目录： `/data/flumedata/%y-%m-%d/`
+数据来源： `/home/yz/log/test.log`  
+上传到HDFS的目录： `/data/flumedata/%y-%m-%d/`  

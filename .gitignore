@@ -4,4 +4,5 @@ bin/
 *.class
 .idea
 target
-*.imi
+*.iml
+*.log
